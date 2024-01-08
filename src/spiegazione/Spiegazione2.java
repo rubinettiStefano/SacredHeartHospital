@@ -78,10 +78,10 @@ public class Spiegazione2
         Person      p1 =  new Doctor();
         Employee    e1 =  new Doctor();
         Doctor      d1 =  new Doctor();
-
+        
         Object oCast = d1;//UPCASTING
         Doctor dCast = (Doctor) o1;//DOWNCASTING
-
+        
         //PRINCIPIO DI SOSTITUZIONE DI LISKOV
 
     }
